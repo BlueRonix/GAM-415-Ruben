@@ -11,6 +11,7 @@
     <None Include="..\..\Source\firstperson415Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,12 @@
     <Filter Include="Source\firstperson415">
       <UniqueIdentifier>{79F6A583-A20A-3867-83EA-1E367DC5A226}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\firstperson415\CubeDMIMod.cpp">
+      <Filter>Source\firstperson415</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\firstperson415\CubeDMIMod.h">
+      <Filter>Source\firstperson415</Filter>
+    </ClCompile>
     <None Include="..\..\Source\firstperson415\firstperson415.Build.cs">
       <Filter>Source\firstperson415</Filter>
     </None>
