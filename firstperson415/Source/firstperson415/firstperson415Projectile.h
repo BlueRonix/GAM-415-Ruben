@@ -28,9 +28,23 @@ class Afirstperson415Projectile : public AActor
 	UPROPERTY(EditAnywhere)
 	UMaterial* baseMat;
 
+	UPROPERTY()
+		FLinearColor randColor;
+
+	UPROPERTY(EditAnywhere)
+		UMaterialInterface* projMat;
+
+	UPROPERTY()
+		UMaterialInstanceDynamic* dmiMat;
+
 
 public:
 	Afirstperson415Projectile();
+
+protected:
+	virtual void BeginPlay();
+
+public:
 
 	/** called when projectile hits something */
 	UFUNCTION()
