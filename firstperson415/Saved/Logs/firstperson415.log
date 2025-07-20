@@ -2350,3 +2350,111 @@ Sampler Limit: 32
 [2025.07.20-00.12.12:914][644]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
 [2025.07.20-00.12.12:914][644]LogShaderCompilers: Display: Material Cache Hits: 30 (16%)
 [2025.07.20-00.12.12:914][644]LogShaderCompilers: Display: ================================================
+[2025.07.20-00.13.13:474][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.07.20-00.13.13:478][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.20-00.13.13:510][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Splatter/Splat1_MAT] ([1] browsable assets)...
+[2025.07.20-00.13.14:953][926]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Splatter/Splat1_MAT.Splat1_MAT]
+[2025.07.20-00.13.14:953][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Splatter/Splat1_MAT]
+[2025.07.20-00.13.14:953][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Splatter/Splat1_MAT" FILE="../../../../../../Users/blue1/Documents/Unreal Projects/GAM-415-Ruben/firstperson415/Content/Splatter/Splat1_MAT.uasset" SILENT=true
+[2025.07.20-00.13.14:956][926]LogSavePackage: Moving output files for package: /Game/Splatter/Splat1_MAT
+[2025.07.20-00.13.14:956][926]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/GAM-415-Ruben/firstperson415/Saved/Splat1_MAT2DFBB8144C96F4B858A09C88EA7EBD90.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/GAM-415-Ruben/firstperson415/Content/Splatter/Splat1_MAT.uasset'
+[2025.07.20-00.13.14:957][926]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Splatter/Splatter] ([1] browsable assets)...
+[2025.07.20-00.13.14:958][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Splatter/Splatter]
+[2025.07.20-00.13.14:958][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Splatter/Splatter" FILE="../../../../../../Users/blue1/Documents/Unreal Projects/GAM-415-Ruben/firstperson415/Content/Splatter/Splatter.uasset" SILENT=true
+[2025.07.20-00.13.14:967][926]LogSavePackage: Moving output files for package: /Game/Splatter/Splatter
+[2025.07.20-00.13.14:967][926]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/GAM-415-Ruben/firstperson415/Saved/Splatter41C6ED9F4E253A9B8172469C8410093F.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/GAM-415-Ruben/firstperson415/Content/Splatter/Splatter.uasset'
+[2025.07.20-00.13.14:975][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.49 sec (total: 1.69 sec)
+[2025.07.20-00.13.15:015][926]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.20-00.13.15:015][926]LogContentValidation: Enabled validators:
+[2025.07.20-00.13.15:015][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.20-00.13.15:015][926]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.20-00.13.15:015][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.20-00.13.15:015][926]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.20-00.13.15:015][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.20-00.13.15:015][926]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.20-00.13.15:015][926]AssetCheck: /Game/Splatter/Splat1_MAT Validating asset
+[2025.07.20-00.13.15:016][926]AssetCheck: /Game/Splatter/Splatter Validating asset
+[2025.07.20-00.13.15:023][926]MaterialEditorStats: Base pass shader: 243 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.07.20-00.13.15:023][926]MaterialEditorStats: Base pass vertex shader: 346 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.07.20-00.13.15:023][926]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.20-00.13.15:023][926]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.20-00.13.15:023][926]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.20-00.13.15:023][926]MaterialEditorStats: Shader Count: 15
+[2025.07.20-00.13.15:023][926]MaterialEditorStats: Preshaders: 7  (13 param fetches, 47 ops)
+[2025.07.20-00.13.26:871][433]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.07.20-00.13.32:467][101]LogLiveCoding: Display:    Creating library C:\Users\blue1\Documents\Unreal Projects\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_2.lib and object C:\Users\blue1\Documents\Unreal Projects\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_2.exp
+[2025.07.20-00.13.32:816][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2025.07.20-00.13.33:272][114]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged, 1 function remapped
+[2025.07.20-00.13.33:273][114]LogLiveCoding: Display: Live coding succeeded
+[2025.07.20-00.13.35:433][318]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.20-00.13.35:438][318]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.20-00.13.35:438][318]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.07.20-00.13.35:440][318]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.281 ms (total: 7.102 ms)
+[2025.07.20-00.13.35:440][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.20-00.13.35:463][318]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.07.20-00.13.35:467][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004012s)
+[2025.07.20-00.13.35:467][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004253s)
+[2025.07.20-00.13.35:544][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.07.20-00.13.35:547][318]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.07.20-00.13.35:549][318]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.20-00.13.35:549][318]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.20-00.13.35:549][318]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.20-00.13.35:549][318]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.20-00.13.35:551][318]LogWorldPartition: Display: WorldPartition initialize took 1.858 ms (total: 97.263 ms)
+[2025.07.20-00.13.35:551][318]LogPlayLevel: PIE: World Init took: (0.003692s)
+[2025.07.20-00.13.35:551][318]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.07.20-00.13.35:552][318]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.20-00.13.35:552][318]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.20-00.13.35:552][318]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.20-00.13.35:552][318]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.20-00.13.35:552][318]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.20-00.13.35:552][318]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.20-00.13.35:552][318]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.20-00.13.35:552][318]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.20-00.13.35:552][318]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.20-00.13.35:552][318]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.20-00.13.35:552][318]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.20-00.13.35:555][318]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.20-00.13.35:584][318]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.07.20-00.13.35:584][318]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.20-00.13.35:584][318]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.20-00.13.35:584][318]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.20-00.13.35:585][318]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.07.20-00.13.35:585][318]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.07.20-00.13.35:588][318]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.07.20-00.13.35:588][318]LogInit: FAudioDevice initialized with ID 4.
+[2025.07.20-00.13.35:588][318]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.07.20-00.13.35:588][318]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2025.07.20-00.13.35:588][318]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.07.20-00.13.35:591][318]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.07.20-00.13.35:594][318]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.07.19-19.13.35
+[2025.07.20-00.13.35:595][318]LogWorld: Bringing up level for play took: 0.002528
+[2025.07.20-00.13.35:598][318]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.07.20-00.13.35:601][318]PIE: Server logged in
+[2025.07.20-00.13.35:602][318]PIE: Play in editor total start time 0.164 seconds.
+[2025.07.20-00.13.41:203][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.20-00.13.41:203][974]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.07.20-00.13.41:204][974]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.20-00.13.41:204][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.20-00.13.41:204][974]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2025.07.20-00.13.41:210][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.20-00.13.41:217][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.20-00.13.41:254][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.20-00.13.41:254][974]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.07.20-00.13.41:254][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.07.20-00.13.41:257][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.07.20-00.13.41:279][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.07.20-00.13.41:307][975]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.07.20-00.13.48:006][ 98]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3160.100830
+[2025.07.20-00.13.49:005][101]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.20-00.13.49:006][101]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3160.767578, Update Interval: 339.685669
