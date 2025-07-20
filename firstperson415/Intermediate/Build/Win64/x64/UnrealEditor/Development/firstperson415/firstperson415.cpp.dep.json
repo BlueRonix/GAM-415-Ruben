@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\blue1\\documents\\unreal projects\\gam-415-ruben\\firstperson415\\source\\firstperson415\\firstperson415.cpp",
+        "Source": "c:\\users\\blue1\\documents\\unreal projects\\firstperson415\\gam-415-ruben\\firstperson415\\source\\firstperson415\\firstperson415.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\blue1\\documents\\unreal projects\\gam-415-ruben\\firstperson415\\intermediate\\build\\win64\\x64\\firstperson415editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\blue1\\documents\\unreal projects\\firstperson415\\gam-415-ruben\\firstperson415\\intermediate\\build\\win64\\x64\\firstperson415editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\blue1\\documents\\unreal projects\\gam-415-ruben\\firstperson415\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\firstperson415\\definitions.firstperson415.h",
-            "c:\\users\\blue1\\documents\\unreal projects\\gam-415-ruben\\firstperson415\\source\\firstperson415\\firstperson415.h"
+            "c:\\users\\blue1\\documents\\unreal projects\\firstperson415\\gam-415-ruben\\firstperson415\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\firstperson415\\definitions.firstperson415.h",
+            "c:\\users\\blue1\\documents\\unreal projects\\firstperson415\\gam-415-ruben\\firstperson415\\source\\firstperson415\\firstperson415.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
