@@ -39,7 +39,7 @@ Afirstperson415Projectile::Afirstperson415Projectile()
 	ProjectileMovement->bShouldBounce = true;
 
 	// Die after 3 seconds by default
-	InitialLifeSpan = 3.0f;
+	InitialLifeSpan = 1.0f;
 }
 
 void Afirstperson415Projectile::BeginPlay()
