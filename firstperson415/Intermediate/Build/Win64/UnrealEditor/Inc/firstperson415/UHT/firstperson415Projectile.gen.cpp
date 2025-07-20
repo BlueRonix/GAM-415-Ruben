@@ -14,9 +14,11 @@ void EmptyLinkFunctionForGeneratedCodefirstperson415Projectile() {}
 COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 ENGINE_API UClass* Z_Construct_UClass_AActor();
 ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
+ENGINE_API UClass* Z_Construct_UClass_UMaterial_NoRegister();
 ENGINE_API UClass* Z_Construct_UClass_UPrimitiveComponent_NoRegister();
 ENGINE_API UClass* Z_Construct_UClass_UProjectileMovementComponent_NoRegister();
 ENGINE_API UClass* Z_Construct_UClass_USphereComponent_NoRegister();
+ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
 ENGINE_API UScriptStruct* Z_Construct_UScriptStruct_FHitResult();
 FIRSTPERSON415_API UClass* Z_Construct_UClass_Afirstperson415Projectile();
 FIRSTPERSON415_API UClass* Z_Construct_UClass_Afirstperson415Projectile_NoRegister();
@@ -144,9 +146,20 @@ struct Z_Construct_UClass_Afirstperson415Projectile_Statics
 		{ "ToolTip", "Projectile movement component" },
 #endif
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_ballMesh_MetaData[] = {
+		{ "Category", "firstperson415Projectile" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "firstperson415Projectile.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_baseMat_MetaData[] = {
+		{ "Category", "firstperson415Projectile" },
+		{ "ModuleRelativePath", "firstperson415Projectile.h" },
+	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_CollisionComp;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_ProjectileMovement;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_ballMesh;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_baseMat;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
@@ -160,9 +173,13 @@ struct Z_Construct_UClass_Afirstperson415Projectile_Statics
 };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_Afirstperson415Projectile_Statics::NewProp_CollisionComp = { "CollisionComp", nullptr, (EPropertyFlags)0x00400000000b0009, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(Afirstperson415Projectile, CollisionComp), Z_Construct_UClass_USphereComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_CollisionComp_MetaData), NewProp_CollisionComp_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_Afirstperson415Projectile_Statics::NewProp_ProjectileMovement = { "ProjectileMovement", nullptr, (EPropertyFlags)0x00400000000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(Afirstperson415Projectile, ProjectileMovement), Z_Construct_UClass_UProjectileMovementComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_ProjectileMovement_MetaData), NewProp_ProjectileMovement_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_Afirstperson415Projectile_Statics::NewProp_ballMesh = { "ballMesh", nullptr, (EPropertyFlags)0x0040000000080009, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(Afirstperson415Projectile, ballMesh), Z_Construct_UClass_UStaticMeshComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_ballMesh_MetaData), NewProp_ballMesh_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_Afirstperson415Projectile_Statics::NewProp_baseMat = { "baseMat", nullptr, (EPropertyFlags)0x0040000000000001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(Afirstperson415Projectile, baseMat), Z_Construct_UClass_UMaterial_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_baseMat_MetaData), NewProp_baseMat_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_Afirstperson415Projectile_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_Afirstperson415Projectile_Statics::NewProp_CollisionComp,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_Afirstperson415Projectile_Statics::NewProp_ProjectileMovement,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_Afirstperson415Projectile_Statics::NewProp_ballMesh,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_Afirstperson415Projectile_Statics::NewProp_baseMat,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_Afirstperson415Projectile_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_Afirstperson415Projectile_Statics::DependentSingletons[])() = {
@@ -205,10 +222,10 @@ Afirstperson415Projectile::~Afirstperson415Projectile() {}
 struct Z_CompiledInDeferFile_FID_Users_blue1_Documents_Unreal_Projects_GAM_415_Ruben_firstperson415_Source_firstperson415_firstperson415Projectile_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_Afirstperson415Projectile, Afirstperson415Projectile::StaticClass, TEXT("Afirstperson415Projectile"), &Z_Registration_Info_UClass_Afirstperson415Projectile, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(Afirstperson415Projectile), 1980964621U) },
+		{ Z_Construct_UClass_Afirstperson415Projectile, Afirstperson415Projectile::StaticClass, TEXT("Afirstperson415Projectile"), &Z_Registration_Info_UClass_Afirstperson415Projectile, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(Afirstperson415Projectile), 2068302319U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_blue1_Documents_Unreal_Projects_GAM_415_Ruben_firstperson415_Source_firstperson415_firstperson415Projectile_h_4293356939(TEXT("/Script/firstperson415"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_blue1_Documents_Unreal_Projects_GAM_415_Ruben_firstperson415_Source_firstperson415_firstperson415Projectile_h_1323408863(TEXT("/Script/firstperson415"),
 	Z_CompiledInDeferFile_FID_Users_blue1_Documents_Unreal_Projects_GAM_415_Ruben_firstperson415_Source_firstperson415_firstperson415Projectile_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_blue1_Documents_Unreal_Projects_GAM_415_Ruben_firstperson415_Source_firstperson415_firstperson415Projectile_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

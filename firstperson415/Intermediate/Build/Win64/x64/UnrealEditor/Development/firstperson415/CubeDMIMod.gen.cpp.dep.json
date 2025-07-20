@@ -7,6 +7,10 @@
         "Includes": [
             "c:\\users\\blue1\\documents\\unreal projects\\gam-415-ruben\\firstperson415\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\firstperson415\\definitions.firstperson415.h",
             "c:\\users\\blue1\\documents\\unreal projects\\gam-415-ruben\\firstperson415\\source\\firstperson415\\cubedmimod.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
             "c:\\users\\blue1\\documents\\unreal projects\\gam-415-ruben\\firstperson415\\intermediate\\build\\win64\\unrealeditor\\inc\\firstperson415\\uht\\cubedmimod.generated.h"
         ],
         "ImportedModules": [],
