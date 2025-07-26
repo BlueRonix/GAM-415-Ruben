@@ -2326,3 +2326,82 @@ Sampler Limit: 32
 [2025.07.26-08.52.31:116][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
 [2025.07.26-08.52.31:671][111]Display: Reload/Re-instancing Complete: 1 package changed, 8 classes unchanged, 7 functions remapped
 [2025.07.26-08.52.31:671][111]LogLiveCoding: Display: Live coding succeeded
+[2025.07.26-08.54.16:817][547]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9573.096680
+[2025.07.26-08.54.17:817][550]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-08.54.17:817][550]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9573.763672, Update Interval: 351.183197
+[2025.07.26-08.56.26:645][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2025.07.26-08.56.26:647][936]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.103
+[2025.07.26-08.57.29:096][624]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.26-08.58.26:464][398]Running C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/firstperson415.uproject" -game -rocket -progress
+[2025.07.26-08.58.26:567][398]Using bundled DotNet SDK version: 8.0.300
+[2025.07.26-08.58.26:567][398]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/firstperson415.uproject" -game -rocket -progress
+[2025.07.26-08.58.26:970][398]Log file: C:\Users\blue1\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.07.26-08.58.27:071][398]
+[2025.07.26-08.58.27:071][398]Generating VisualStudio2022 project files:
+[2025.07.26-08.58.27:071][398]Discovering modules, targets and source code for project...
+[2025.07.26-08.58.30:888][398]Binding IntelliSense data...
+[2025.07.26-08.58.45:468][398]Binding IntelliSense data... 50%
+[2025.07.26-08.58.45:468][398]Binding IntelliSense data... 100%
+[2025.07.26-08.58.45:570][398]Writing project files...
+[2025.07.26-08.58.47:983][398]Writing project files... 100%
+[2025.07.26-08.58.47:983][398]
+[2025.07.26-08.58.47:983][398]Generating QueryTargets data for editor...
+[2025.07.26-08.58.47:983][398]Total execution time: 21.37 seconds
+[2025.07.26-08.58.48:290][398]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.07.26-08.58.48:626][398]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.07.26-08.59.00:518][480]LogLiveCoding: Display:    Creating library C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_12.lib and object C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_12.exp
+[2025.07.26-08.59.00:746][480]LogClass: UPackage /Script/firstperson415 Reload.
+[2025.07.26-08.59.00:750][480]LogClass: Could not find existing class PerlinProcTerrain in package /Script/firstperson415 for reload, assuming new or modified class
+[2025.07.26-08.59.01:110][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2025.07.26-08.59.01:663][481]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 8 classes unchanged, 7 functions remapped
+[2025.07.26-08.59.01:663][481]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.07.26-09.00.45:482][581]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9961.727539
+[2025.07.26-09.00.46:482][584]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-09.00.46:482][584]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9962.393555, Update Interval: 304.405640
+[2025.07.26-09.06.27:005][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2025.07.26-09.06.27:006][605]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.107
+[2025.07.26-09.06.40:530][646]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10316.659180
+[2025.07.26-09.06.41:530][649]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-09.06.41:530][649]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10317.325195, Update Interval: 346.343567
+[2025.07.26-09.12.59:246][782]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10695.144531
+[2025.07.26-09.13.00:246][785]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-09.13.00:246][785]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10695.810547, Update Interval: 328.440796
+[2025.07.26-09.16.27:397][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2025.07.26-09.16.27:404][406]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.081
+[2025.07.26-09.16.32:806][423]LogDerivedDataCache: C:/Users/blue1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.26-09.19.25:298][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11080.946289
+[2025.07.26-09.19.26:299][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-09.19.26:299][943]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11081.612305, Update Interval: 314.570160
+[2025.07.26-09.25.16:678][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11432.069336
+[2025.07.26-09.25.17:677][997]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-09.25.17:677][997]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11432.735352, Update Interval: 302.107605
+[2025.07.26-09.26.27:774][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.07.26-09.26.27:781][207]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.048
+[2025.07.26-09.31.19:403][ 82]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11794.561523
+[2025.07.26-09.31.20:403][ 85]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-09.31.20:403][ 85]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11795.228516, Update Interval: 305.280914
+[2025.07.26-09.36.28:197][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.07.26-09.36.28:199][  8]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.042
+[2025.07.26-09.37.19:448][162]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12154.377930
+[2025.07.26-09.37.20:449][165]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-09.37.20:449][165]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12155.043945, Update Interval: 327.567383
+[2025.07.26-09.41.20:641][114]LogSlate: Window 'ProcMeshFromStatic_BP' being destroyed
+[2025.07.26-09.41.20:647][114]LogSlate: Window 'ProcMeshFromStatic_BP' being destroyed
+[2025.07.26-09.41.20:688][114]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.07.26-09.41.20:688][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-09.41.20:886][114]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.07.26-09.41.20:886][114]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.07.26-09.41.20:886][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-09.41.21:089][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2025.07.26-09.41.23:252][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.07.26-09.41.26:149][526]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.07.26-09.41.40:774][767]LogLiveCoding: Display:    Creating library C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_13.lib and object C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_13.exp
+[2025.07.26-09.41.41:010][772]LogClass: UPackage /Script/firstperson415 Reload.
+[2025.07.26-09.41.41:013][772]LogClass: UClass PerlinProcTerrain Reload.
+[2025.07.26-09.41.41:013][772]LogClass: Could not find existing class PerlinProcTerrain in package /Script/firstperson415 for reload, assuming new or modified class
+[2025.07.26-09.41.41:013][772]LogClass: Function AlterMesh is new or belongs to a modified class.
+[2025.07.26-09.41.41:042][772]Re-instancing PerlinProcTerrain after reload.
+[2025.07.26-09.41.41:223][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.07.26-09.41.41:833][773]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 8 classes unchanged, 7 functions remapped
+[2025.07.26-09.41.41:833][773]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.07.26-09.41.51:841][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
