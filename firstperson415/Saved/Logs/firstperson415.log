@@ -2089,3 +2089,240 @@ Sampler Limit: 32
 [2025.07.26-07.03.05:506][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.07.26-07.03.05:520][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
 [2025.07.26-07.03.05:550][773]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.07.26-07.08.22:915][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3219.201416
+[2025.07.26-07.08.23:068][806]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-07.08.23:068][806]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3219.345459, Update Interval: 310.928070
+[2025.07.26-07.08.24:376][881]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Source/firstperson415/ProcMeshFromStatic.cpp'.
+[2025.07.26-07.08.24:376][881]LogVSAccessor: Warning: Couldn't goto column number '1' of line '1' in 'C:/Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Source/firstperson415/ProcMeshFromStatic.cpp'.
+[2025.07.26-07.08.24:389][881]Running C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/firstperson415.uproject" -game -rocket -progress
+[2025.07.26-07.08.24:492][881]Using bundled DotNet SDK version: 8.0.300
+[2025.07.26-07.08.24:492][881]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/firstperson415.uproject" -game -rocket -progress
+[2025.07.26-07.08.24:893][881]Log file: C:\Users\blue1\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.07.26-07.08.24:994][881]
+[2025.07.26-07.08.24:994][881]Generating VisualStudio2022 project files:
+[2025.07.26-07.08.24:994][881]Discovering modules, targets and source code for project...
+[2025.07.26-07.08.27:809][881]Binding IntelliSense data...
+[2025.07.26-07.08.31:751][881]Binding IntelliSense data... 100%
+[2025.07.26-07.08.31:751][881]Writing project files...
+[2025.07.26-07.08.34:095][881]Writing project files... 100%
+[2025.07.26-07.08.34:095][881]
+[2025.07.26-07.08.34:095][881]Generating QueryTargets data for editor...
+[2025.07.26-07.08.34:095][881]Total execution time: 9.56 seconds
+[2025.07.26-07.08.34:406][881]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.07.26-07.08.34:944][881]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.07.26-07.08.46:398][917]LogLiveCoding: Display:    Creating library C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_8.lib and object C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_8.exp
+[2025.07.26-07.08.46:809][917]LogClass: UPackage /Script/firstperson415 Reload.
+[2025.07.26-07.08.46:819][917]LogClass: Could not find existing class ProcMeshFromStatic in package /Script/firstperson415 for reload, assuming new or modified class
+[2025.07.26-07.08.47:036][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.07.26-07.08.47:602][918]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 7 classes unchanged, 7 functions remapped
+[2025.07.26-07.08.47:602][918]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.07.26-07.14.11:669][891]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3567.951904
+[2025.07.26-07.14.12:670][894]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-07.14.12:670][894]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3568.618652, Update Interval: 301.371490
+[2025.07.26-07.16.32:805][315]LogDerivedDataCache: C:/Users/blue1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.26-07.19.59:051][933]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3915.329590
+[2025.07.26-07.20.00:051][936]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-07.20.00:051][936]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3915.996826, Update Interval: 357.712952
+[2025.07.26-07.26.31:488][110]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4307.788086
+[2025.07.26-07.26.32:487][113]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-07.26.32:488][113]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4308.454590, Update Interval: 346.953339
+[2025.07.26-07.32.49:535][244]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4685.868652
+[2025.07.26-07.32.50:534][247]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-07.32.50:535][247]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4686.535645, Update Interval: 340.300903
+[2025.07.26-07.39.22:256][422]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5078.645508
+[2025.07.26-07.39.23:255][425]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-07.39.23:255][425]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5079.312500, Update Interval: 346.964325
+[2025.07.26-07.45.50:313][586]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5466.750000
+[2025.07.26-07.45.51:313][589]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-07.45.51:313][589]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5467.416992, Update Interval: 300.153809
+[2025.07.26-07.51.31:036][608]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5807.515137
+[2025.07.26-07.51.32:036][611]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-07.51.32:036][611]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5808.182129, Update Interval: 306.456482
+[2025.07.26-07.57.10:423][626]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6146.937500
+[2025.07.26-07.57.11:422][629]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-07.57.11:423][629]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6147.604004, Update Interval: 329.449738
+[2025.07.26-08.03.15:139][720]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6511.667969
+[2025.07.26-08.03.16:138][723]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-08.03.16:138][723]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6512.333984, Update Interval: 335.261688
+[2025.07.26-08.09.40:399][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6896.966797
+[2025.07.26-08.09.41:400][266]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-08.09.41:400][266]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6897.633789, Update Interval: 339.269989
+[2025.07.26-08.13.14:102][904]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 71a...d9a
+[2025.07.26-08.13.14:103][904]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.68 RefreshExpires: 1.554e+07
+[2025.07.26-08.13.15:102][907]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 71a...d9a Access[Expires: 2025.07.26-10.13.15 Remaining: 7200.56] Refresh[Expires: 2026-01-22T03:37:38.127Z Remaining: 15535463.13] State: Valid
+[2025.07.26-08.16.03:792][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7280.429199
+[2025.07.26-08.16.04:791][416]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-08.16.04:791][416]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7281.095703, Update Interval: 311.488403
+[2025.07.26-08.16.32:805][501]LogDerivedDataCache: C:/Users/blue1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.26-08.21.54:846][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7631.560059
+[2025.07.26-08.21.55:847][469]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-08.21.55:847][469]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7632.226562, Update Interval: 350.353699
+[2025.07.26-08.28.33:233][661]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8030.046387
+[2025.07.26-08.28.34:234][664]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-08.28.34:234][664]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8030.713379, Update Interval: 342.833344
+[2025.07.26-08.35.16:639][871]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8433.333984
+[2025.07.26-08.35.17:639][874]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-08.35.17:639][874]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8434.000000, Update Interval: 331.495117
+[2025.07.26-08.41.41:026][ 24]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8817.451172
+[2025.07.26-08.41.42:026][ 27]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-08.41.42:026][ 27]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8818.117188, Update Interval: 305.562927
+[2025.07.26-08.44.18:864][874]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.07.26-08.44.40:313][130]LogLiveCoding: Display:    Creating library C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_9.lib and object C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_9.exp
+[2025.07.26-08.44.40:615][135]LogClass: UPackage /Script/firstperson415 Reload.
+[2025.07.26-08.44.40:620][135]LogClass: UClass ProcMeshFromStatic Reload.
+[2025.07.26-08.44.40:629][135]LogClass: Could not find existing class ProcMeshFromStatic in package /Script/firstperson415 for reload, assuming new or modified class
+[2025.07.26-08.44.40:665][135]Re-instancing ProcMeshFromStatic after reload.
+[2025.07.26-08.44.41:099][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2025.07.26-08.44.41:684][136]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 7 classes unchanged, 7 functions remapped
+[2025.07.26-08.44.41:684][136]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.07.26-08.44.47:222][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2025.07.26-08.45.06:888][ 57]LogToolMenus: Warning: Menu item not found: 'Rename' for insert: 'BatchRenameObject'
+[2025.07.26-08.45.46:786][ 25]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP
+[2025.07.26-08.45.46:787][ 25]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.07.26-08.45.47:439][ 25]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2025.07.26-08.46.24:942][286]LogStreaming: Display: FlushAsyncLoading(558): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.26-08.46.25:260][286]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.26-08.46.26:250][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.07.26-08.46.26:252][349]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.102
+[2025.07.26-08.46.26:254][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Procedural/ProcMeshFromStatic_BP] ([2] browsable assets)...
+[2025.07.26-08.46.26:254][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/Procedural/ProcMeshFromStatic_BP]
+[2025.07.26-08.46.26:256][349]LogWorldPartition: Can't find class descriptor '/Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP_C' for saving '/Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP_C'
+[2025.07.26-08.46.26:256][349]LogWorldPartition: Can't find class descriptor '/Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP_C' for saving '/Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP_C'
+[2025.07.26-08.46.26:256][349]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Procedural/ProcMeshFromStatic_BP_Auto4
+[2025.07.26-08.46.26:256][349]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Saved/ProcMeshFromStatic_BP_Auto4089D809A494478A13326C486ED1C57B3.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Saved/Autosaves/Game/Procedural/ProcMeshFromStatic_BP_Auto4.uasset'
+[2025.07.26-08.46.26:258][349]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.07.26-08.46.45:243][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/Maps/_GENERATED/blue1/Box_7F2BA86B.Box_7F2BA86B
+[2025.07.26-08.46.45:243][753]LogStaticMesh: Display: Building static mesh Box_7F2BA86B (Required Memory Estimate: 0.027864 MB)...
+[2025.07.26-08.46.45:245][753]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/Maps/_GENERATED/blue1/Box_7F2BA86B.Box_7F2BA86B as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0012CCFA107F02_1716578427
+[2025.07.26-08.46.45:248][753]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/blue1/Box_7F2BA86B.Box_7F2BA86B
+[2025.07.26-08.47.18:254][694]LogStreaming: Display: FlushAsyncLoading(560): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.26-08.47.40:650][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9176.939453
+[2025.07.26-08.47.40:898][290]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-08.47.40:898][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9177.172852, Update Interval: 358.064514
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: ================================================
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Total job queries 339, among them cache hits 69 (20.35%), DDC hits 246 (72.57%), Duplicates 2 (0.59%)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Tracking 268 distinct input hashes that result in 220 distinct outputs (82.09%)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: RAM used: 144.17 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Shaders Compiled: 22
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Jobs assigned 22, completed 22 (100%)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Average time worker was idle: 2341.84 s
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.32 s
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Job execution time: average 1.01 s, max 2.12 s
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Job life time (pending + execution): average 1.09 s, max 2.22
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Shader code size: average 7.762 KiB, min 2.691 KiB, max 12.753 KiB
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.45 s
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Average processing rate: 2.33 jobs/sec
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Total thread time: 12.566 s
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Total thread preprocess time: 5.104 s
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Percentage time preprocessing: 40.62%
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Effective parallelization: 1.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.13 sec, max 1.16 sec, min 1.09 sec)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.63 sec, max 0.63 sec, min 0.63 sec)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.62 sec, max 0.72 sec, min 0.49 sec)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.93% of total time (compiled    2 times, average 1.13 sec, max 1.16 sec, min 1.09 sec)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.81% of total time (compiled    3 times, average 0.62 sec, max 0.72 sec, min 0.49 sec)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.27% of total time (compiled    3 times, average 0.39 sec, max 0.45 sec, min 0.29 sec)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display:                                                  FHitProxyPS - 7.63% of total time (compiled    2 times, average 0.48 sec, max 0.60 sec, min 0.35 sec)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.52% of total time (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: === Material stats ===
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Materials Translated:    155
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Material Translation Only: 0.04 s (48%)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: Material Cache Hits: 27 (17%)
+[2025.07.26-08.47.52:059][219]LogShaderCompilers: Display: ================================================
+[2025.07.26-08.49.10:961][280]LogStaticMesh: Display: Building static mesh Box_7F2BA86B (Required Memory Estimate: 0.053633 MB)...
+[2025.07.26-08.49.10:962][280]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/Maps/_GENERATED/blue1/Box_7F2BA86B.Box_7F2BA86B
+[2025.07.26-08.49.13:059][472]Cmd: DELETE
+[2025.07.26-08.49.13:060][472]Cmd: ACTOR DELETE
+[2025.07.26-08.49.13:062][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.26-08.49.13:100][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.07.26-08.49.13:104][472]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2025.07.26-08.49.18:843][745]LogSlate: Took 0.008135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.07.26-08.49.21:599][965]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.07.26-08.49.27:820][437]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.07.26-08.49.27:827][437]PIE: Warning: Calling GetSectionFromStaticMesh on Box_7F2BA86B but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2025.07.26-08.49.43:147][675]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.26-08.50.24:269][381]PIE: Warning: Calling GetSectionFromStaticMesh on Box_7F2BA86B but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2025.07.26-08.50.24:270][381]PIE: Warning: Calling GetSectionFromStaticMesh on Box_7F2BA86B but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2025.07.26-08.50.24:331][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2025.07.26-08.51.29:301][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.26-08.51.29:347][948]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Procedural/ProcMeshFromStatic_BP] ([2] browsable assets)...
+[2025.07.26-08.51.29:347][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/Procedural/ProcMeshFromStatic_BP]
+[2025.07.26-08.51.29:350][948]LogWorldPartition: Can't find class descriptor '/Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP_C' for saving '/Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP_C'
+[2025.07.26-08.51.29:350][948]LogWorldPartition: Can't find class descriptor '/Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP_C' for saving '/Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP_C'
+[2025.07.26-08.51.29:350][948]LogSavePackage: Moving output files for package: /Game/Procedural/ProcMeshFromStatic_BP
+[2025.07.26-08.51.29:350][948]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Saved/ProcMeshFromStatic_BPBCF264A249A59E8490BFFAA63C3F2D71.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Content/Procedural/ProcMeshFromStatic_BP.uasset'
+[2025.07.26-08.51.29:361][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.720 ms (total: 536.033 ms)
+[2025.07.26-08.51.29:413][948]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.26-08.51.29:413][948]LogContentValidation: Enabled validators:
+[2025.07.26-08.51.29:413][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.26-08.51.29:413][948]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.26-08.51.29:413][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.26-08.51.29:413][948]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.26-08.51.29:413][948]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.26-08.51.29:413][948]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.26-08.51.29:413][948]AssetCheck: /Game/Procedural/ProcMeshFromStatic_BP Validating asset
+[2025.07.26-08.51.47:948][441]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.26-08.51.52:147][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2025.07.26-08.51.52:157][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.26-08.51.52:210][906]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/blue1/Box_7F2BA86B] ([1] browsable assets)...
+[2025.07.26-08.51.52:253][906]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/Maps/_GENERATED/blue1/Box_7F2BA86B.Box_7F2BA86B]
+[2025.07.26-08.51.52:253][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/blue1/Box_7F2BA86B]
+[2025.07.26-08.51.52:256][906]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/_GENERATED/blue1/Box_7F2BA86B
+[2025.07.26-08.51.52:256][906]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Saved/Box_7F2BA86BB95F096A47AD8C5C7B7B2BB9DA81C6B3.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Content/FirstPerson/Maps/_GENERATED/blue1/Box_7F2BA86B.uasset'
+[2025.07.26-08.51.52:268][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.191 ms (total: 648.224 ms)
+[2025.07.26-08.51.52:315][906]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.26-08.51.52:315][906]LogContentValidation: Enabled validators:
+[2025.07.26-08.51.52:315][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.26-08.51.52:315][906]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.26-08.51.52:315][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.26-08.51.52:315][906]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.26-08.51.52:315][906]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.26-08.51.52:315][906]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.26-08.51.52:315][906]AssetCheck: /Game/FirstPerson/Maps/_GENERATED/blue1/Box_7F2BA86B Validating asset
+[2025.07.26-08.51.53:649][ 63]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.07.26-08.52.06:244][524]LogLiveCoding: Display:    Creating library C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_10.lib and object C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_10.exp
+[2025.07.26-08.52.06:668][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.07.26-08.52.07:189][531]Display: Reload/Re-instancing Complete: 1 package changed, 8 classes unchanged, 7 functions remapped
+[2025.07.26-08.52.07:191][531]LogLiveCoding: Display: Live coding succeeded
+[2025.07.26-08.52.12:028][ 52]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP_C
+[2025.07.26-08.52.12:028][ 52]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP_C
+[2025.07.26-08.52.12:028][ 52]PIE: Warning: Calling GetSectionFromStaticMesh on Box_7F2BA86B but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2025.07.26-08.52.12:028][ 52]LogActorFactory: Actor Factory spawned Blueprint /Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP as actor: ProcMeshFromStatic_BP_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ProcMeshFromStatic_BP_C_0
+[2025.07.26-08.52.12:028][ 52]LogActorFactory: Actor Factory spawned Blueprint /Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP as actor: ProcMeshFromStatic_BP_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ProcMeshFromStatic_BP_C_0
+[2025.07.26-08.52.13:222][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2025.07.26-08.52.13:224][181]LogEditorActor: Deleted 0 Actors (0.063 secs)
+[2025.07.26-08.52.13:228][181]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP_C
+[2025.07.26-08.52.13:228][181]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP_C
+[2025.07.26-08.52.13:229][181]PIE: Warning: Calling GetSectionFromStaticMesh on Box_7F2BA86B but 'Allow CPU Access' is not enabled. This is required for converting StaticMesh to ProceduralMeshComponent in cooked builds.
+[2025.07.26-08.52.13:231][181]LogActorFactory: Actor Factory spawned Blueprint /Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP as actor: ProcMeshFromStatic_BP_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ProcMeshFromStatic_BP_C_UAID_9C6B0012CCFA107F02_2044563428
+[2025.07.26-08.52.13:231][181]LogActorFactory: Actor Factory spawned Blueprint /Game/Procedural/ProcMeshFromStatic_BP.ProcMeshFromStatic_BP as actor: ProcMeshFromStatic_BP_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.ProcMeshFromStatic_BP_C_UAID_9C6B0012CCFA107F02_2044563428
+[2025.07.26-08.52.16:509][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2025.07.26-08.52.16:515][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.26-08.52.16:568][535]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/75/6YN4XHSEEN3T6ZI3O57M1B
+[2025.07.26-08.52.16:568][535]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Saved/6YN4XHSEEN3T6ZI3O57M1B60DE220E4E85EDAA002AEAA837BFDE3E.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/75/6YN4XHSEEN3T6ZI3O57M1B.uasset'
+[2025.07.26-08.52.16:576][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.387 ms (total: 708.611 ms)
+[2025.07.26-08.52.16:628][535]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.26-08.52.16:628][535]LogContentValidation: Enabled validators:
+[2025.07.26-08.52.16:628][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.26-08.52.16:628][535]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.26-08.52.16:628][535]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.26-08.52.16:628][535]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.26-08.52.16:628][535]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.26-08.52.16:628][535]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.26-08.52.16:628][535]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.07.26-08.52.18:268][730]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.07.26-08.52.30:642][105]LogLiveCoding: Display:    Creating library C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_11.lib and object C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_11.exp
+[2025.07.26-08.52.31:116][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.07.26-08.52.31:671][111]Display: Reload/Re-instancing Complete: 1 package changed, 8 classes unchanged, 7 functions remapped
+[2025.07.26-08.52.31:671][111]LogLiveCoding: Display: Live coding succeeded
