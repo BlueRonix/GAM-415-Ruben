@@ -2405,3 +2405,614 @@ Sampler Limit: 32
 [2025.07.26-09.41.41:833][773]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 8 classes unchanged, 7 functions remapped
 [2025.07.26-09.41.41:833][773]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
 [2025.07.26-09.41.51:841][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.07.26-09.43.23:127][726]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12517.880859
+[2025.07.26-09.43.24:126][729]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-09.43.24:126][729]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12518.546875, Update Interval: 314.485901
+[2025.07.26-09.45.57:600][316]LogStreaming: Display: FlushAsyncLoading(562): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.26-09.46.10:602][316]LogSlate: Window 'New Level' being destroyed
+[2025.07.26-09.46.10:659][316]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.26-09.46.10:659][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-09.46.10:659][316]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.07.26-09.46.10:691][316]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.26-09.46.10:723][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2025.07.26-09.46.10:731][316]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.07.26-09.46.10:733][316]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.07.26-09.46.34:224][899]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.07.26-09.46.34:229][899]LogContentBrowser: Creating deferred item: NewFolder
+[2025.07.26-09.46.34:235][900]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.07.26-09.46.38:006][353]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2025.07.26-09.46.38:006][353]LogContentBrowser: End creating deferred item NewFolder
+[2025.07.26-09.47.04:962][641]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.07.26-09.47.10:924][212]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.07.26-09.47.10:924][212]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.07.26-09.47.10:926][212]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Temp/Untitled_1.Untitled:PersistentLevel.DirectionalLight_0
+[2025.07.26-09.47.10:927][212]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Temp/Untitled_1.Untitled:PersistentLevel.DirectionalLight_0
+[2025.07.26-09.47.52:713][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.07.26-09.47.52:721][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.26-09.48.41:870][781]LogSlate: Window 'Save Level As' being destroyed
+[2025.07.26-09.48.41:919][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.07.26-09.48.41:923][781]LogSavePackage: Moving output files for package: /Game/Maps/ProcTerrainMAP
+[2025.07.26-09.48.41:923][781]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Saved/ProcTerrainMAP7BFAAE2441EF56A4E57D9296D732FBE0.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Content/Maps/ProcTerrainMAP.umap'
+[2025.07.26-09.48.41:934][781]LogFileHelpers: Saving map 'ProcTerrainMAP' took 0.057
+[2025.07.26-09.48.41:940][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.2 sec (total: 49.9 sec)
+[2025.07.26-09.48.41:986][781]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.26-09.48.41:986][781]LogContentValidation: Enabled validators:
+[2025.07.26-09.48.41:986][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.26-09.48.41:986][781]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.26-09.48.41:986][781]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.26-09.48.41:986][781]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.26-09.48.41:986][781]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.26-09.48.41:986][781]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.26-09.48.41:986][781]AssetCheck: /Game/Maps/ProcTerrainMAP Validating asset
+[2025.07.26-09.48.42:046][785]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.07.26-09.49.13:600][442]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12868.292969
+[2025.07.26-09.49.14:165][450]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-09.49.14:165][450]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12868.815430, Update Interval: 338.486267
+[2025.07.26-09.49.15:751][621]LogEditor: Attempting to add actor of class 'PerlinProcTerrain' to level at 410.00,180.00,-110.00
+[2025.07.26-09.49.15:752][621]LogActor: Warning: PerlinProcTerrain /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2025.07.26-09.49.16:263][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.07.26-09.49.16:265][680]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.26-09.49.16:270][680]LogEditor: Attempting to add actor of class 'PerlinProcTerrain' to level at 340.00,130.00,20.00
+[2025.07.26-09.49.16:271][680]LogActor: Warning: PerlinProcTerrain /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2025.07.26-09.49.16:274][680]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.49.25:634][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.07.26-09.49.27:631][789]LogSlate: Window 'Save Content' being destroyed
+[2025.07.26-09.49.27:638][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.26-09.49.27:707][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.07.26-09.49.27:710][789]LogWorldPartition: Can't find class descriptor '/Script/firstperson415.PerlinProcTerrain' for saving '/Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1'
+[2025.07.26-09.49.27:710][789]LogSavePackage: Moving output files for package: /Game/Maps/ProcTerrainMAP
+[2025.07.26-09.49.27:711][789]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Saved/ProcTerrainMAP669B3FD448B165938C186C8D43B0E022.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Content/Maps/ProcTerrainMAP.umap'
+[2025.07.26-09.49.27:718][789]LogFileHelpers: Saving map 'ProcTerrainMAP' took 0.051
+[2025.07.26-09.49.27:725][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.317 ms (total: 50.0 sec)
+[2025.07.26-09.49.27:775][789]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.26-09.49.27:775][789]LogContentValidation: Enabled validators:
+[2025.07.26-09.49.27:775][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.26-09.49.27:775][789]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.26-09.49.27:775][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.26-09.49.27:775][789]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.26-09.49.27:775][789]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.26-09.49.27:775][789]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.26-09.49.27:775][789]AssetCheck: /Game/Maps/ProcTerrainMAP Validating asset
+[2025.07.26-09.49.42:235][434]LogSlate: Window 'View Changes' being destroyed
+[2025.07.26-09.49.42:244][434]LogSlate: Window 'View Changes' being destroyed
+[2025.07.26-09.49.55:986][ 44]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.07.26-09.49.55:986][ 44]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.07.26-09.49.55:986][ 44]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.07.26-09.49.55:987][ 44]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.07.26-09.49.56:748][133]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.07.26-09.49.56:749][133]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.07.26-09.49.56:749][133]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.07.26-09.49.56:749][133]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.07.26-09.49.58:538][343]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.07.26-09.49.58:538][343]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.07.26-09.49.58:538][343]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.07.26-09.49.58:546][343]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.07.26-09.49.59:007][396]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.07.26-09.49.59:007][396]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.07.26-09.49.59:007][396]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.07.26-09.49.59:008][396]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.07.26-09.51.05:173][925]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.26-09.51.16:206][172]LogSlate: Window 'Outliner 2' being destroyed
+[2025.07.26-09.52.47:330][465]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.52.51:890][ 10]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.52.57:677][700]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.53.00:533][ 41]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.53.04:363][500]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.53.05:973][692]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.53.11:134][308]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.53.18:524][102]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.53.43:038][830]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.53.43:904][932]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.53.45:690][144]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.54.12:068][568]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.54.15:945][842]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.26-09.54.15:953][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.26-09.54.15:990][842]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-09.54.15:991][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001242s)
+[2025.07.26-09.54.15:991][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ProcTerrainMAP.ProcTerrainMAP to /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP (0.001286s)
+[2025.07.26-09.54.16:012][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.07.26-09.54.16:015][842]LogChaosDD: Creating Chaos Debug Draw Scene for world ProcTerrainMAP
+[2025.07.26-09.54.16:016][842]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2025.07.26-09.54.16:017][842]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.07.26-09.54.16:017][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.26-09.54.16:017][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.26-09.54.16:017][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.26-09.54.16:017][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.26-09.54.16:017][842]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.26-09.54.16:017][842]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.26-09.54.16:017][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.26-09.54.16:017][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.26-09.54.16:017][842]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.26-09.54.16:017][842]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.26-09.54.16:017][842]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.26-09.54.16:020][842]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.26-09.54.16:050][842]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.07.26-09.54.16:051][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.26-09.54.16:051][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.26-09.54.16:051][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.26-09.54.16:051][842]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.07.26-09.54.16:051][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.07.26-09.54.16:053][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.07.26-09.54.16:053][842]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.07.26-09.54.16:053][842]LogInit: FAudioDevice initialized with ID 4.
+[2025.07.26-09.54.16:053][842]LogAudio: Display: Audio Device (ID: 4) registered with world 'ProcTerrainMAP'.
+[2025.07.26-09.54.16:054][842]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.07.26-09.54.16:061][842]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.07.26-09.54.16:062][842]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP up for play (max tick rate 0) at 2025.07.26-04.54.16
+[2025.07.26-09.54.16:062][842]LogWorld: Bringing up level for play took: 0.000559
+[2025.07.26-09.54.16:064][842]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.07.26-09.54.16:090][842]PIE: Server logged in
+[2025.07.26-09.54.16:091][842]PIE: Play in editor total start time 0.141 seconds.
+[2025.07.26-09.54.21:989][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-09.54.21:990][535]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-09.54.21:990][535]LogWorld: UWorld::CleanupWorld for ProcTerrainMAP, bSessionEnded=true, bCleanupResources=true
+[2025.07.26-09.54.21:990][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-09.54.21:993][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.26-09.54.21:999][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-09.54.22:017][535]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.26-09.54.22:018][535]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.07.26-09.54.22:018][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.07.26-09.54.22:019][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.07.26-09.54.22:024][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-09.54.22:026][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.07.26-09.54.22:069][536]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.07.26-09.55.37:361][553]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13252.015625
+[2025.07.26-09.55.37:568][578]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-09.55.37:568][578]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13252.214844, Update Interval: 311.541504
+[2025.07.26-09.55.37:641][587]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.55.43:338][249]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-09.55.43:404][257]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.26-09.55.43:410][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.26-09.55.43:410][257]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-09.55.43:411][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000787s)
+[2025.07.26-09.55.43:411][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ProcTerrainMAP.ProcTerrainMAP to /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP (0.000819s)
+[2025.07.26-09.55.43:431][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.07.26-09.55.43:433][257]LogChaosDD: Creating Chaos Debug Draw Scene for world ProcTerrainMAP
+[2025.07.26-09.55.43:434][257]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2025.07.26-09.55.43:435][257]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.07.26-09.55.43:435][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.26-09.55.43:435][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.26-09.55.43:435][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.26-09.55.43:435][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.26-09.55.43:435][257]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.26-09.55.43:435][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.26-09.55.43:435][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.26-09.55.43:435][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.26-09.55.43:435][257]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.26-09.55.43:435][257]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.26-09.55.43:435][257]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.26-09.55.43:437][257]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.26-09.55.43:466][257]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.07.26-09.55.43:466][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.26-09.55.43:466][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.26-09.55.43:466][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.26-09.55.43:466][257]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.07.26-09.55.43:466][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.07.26-09.55.43:469][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.07.26-09.55.43:469][257]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.07.26-09.55.43:469][257]LogInit: FAudioDevice initialized with ID 5.
+[2025.07.26-09.55.43:470][257]LogAudio: Display: Audio Device (ID: 5) registered with world 'ProcTerrainMAP'.
+[2025.07.26-09.55.43:470][257]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.07.26-09.55.43:472][257]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.07.26-09.55.43:473][257]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP up for play (max tick rate 0) at 2025.07.26-04.55.43
+[2025.07.26-09.55.43:473][257]LogWorld: Bringing up level for play took: 0.000475
+[2025.07.26-09.55.43:475][257]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.07.26-09.55.43:499][257]PIE: Server logged in
+[2025.07.26-09.55.43:500][257]PIE: Play in editor total start time 0.091 seconds.
+[2025.07.26-09.55.46:139][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-09.55.46:139][561]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-09.55.46:139][561]LogWorld: UWorld::CleanupWorld for ProcTerrainMAP, bSessionEnded=true, bCleanupResources=true
+[2025.07.26-09.55.46:139][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-09.55.46:143][561]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.26-09.55.46:148][561]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-09.55.46:166][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-09.55.46:166][561]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.07.26-09.55.46:168][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.07.26-09.55.46:172][561]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.07.26-09.55.46:178][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.07.26-09.55.46:224][562]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.07.26-09.56.25:983][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.07.26-09.56.25:987][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.26-09.56.26:064][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.07.26-09.56.26:067][432]LogWorldPartition: Can't find class descriptor '/Script/firstperson415.PerlinProcTerrain' for saving '/Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1'
+[2025.07.26-09.56.26:068][432]LogSavePackage: Moving output files for package: /Game/Maps/ProcTerrainMAP
+[2025.07.26-09.56.26:069][432]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Saved/ProcTerrainMAP50D2AE1E4CA220C12E0741B2216DD529.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Content/Maps/ProcTerrainMAP.umap'
+[2025.07.26-09.56.26:076][432]LogFileHelpers: Saving map 'ProcTerrainMAP' took 0.049
+[2025.07.26-09.56.26:083][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.731 ms (total: 50.1 sec)
+[2025.07.26-09.56.26:120][432]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.26-09.56.26:120][432]LogContentValidation: Enabled validators:
+[2025.07.26-09.56.26:120][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.26-09.56.26:120][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.26-09.56.26:120][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.26-09.56.26:120][432]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.26-09.56.26:120][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.26-09.56.26:120][432]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.26-09.56.26:120][432]AssetCheck: /Game/Maps/ProcTerrainMAP Validating asset
+[2025.07.26-10.00.42:385][764]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.07.26-10.00.55:239][802]LogLiveCoding: Display:    Creating library C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_14.lib and object C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_14.exp
+[2025.07.26-10.00.55:652][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.07.26-10.00.56:199][803]Display: Reload/Re-instancing Complete: 1 package changed, 9 classes unchanged, 8 functions remapped
+[2025.07.26-10.00.56:199][803]LogLiveCoding: Display: Live coding succeeded
+[2025.07.26-10.01.42:904][640]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13617.387695
+[2025.07.26-10.01.43:021][654]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-10.01.43:021][654]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13617.495117, Update Interval: 355.856201
+[2025.07.26-10.01.46:971][ 76]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_PickUp_Rifle.BP_PickUp_Rifle_C
+[2025.07.26-10.01.46:971][ 76]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_PickUp_Rifle.BP_PickUp_Rifle_C
+[2025.07.26-10.01.46:973][ 76]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_PickUp_Rifle.BP_PickUp_Rifle as actor: BP_PickUp_Rifle_C /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.BP_PickUp_Rifle_C_0
+[2025.07.26-10.01.46:974][ 76]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_PickUp_Rifle.BP_PickUp_Rifle as actor: BP_PickUp_Rifle_C /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.BP_PickUp_Rifle_C_0
+[2025.07.26-10.01.47:463][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.07.26-10.01.47:492][108]LogEditorActor: Deleted 0 Actors (0.110 secs)
+[2025.07.26-10.01.47:495][108]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_PickUp_Rifle.BP_PickUp_Rifle_C
+[2025.07.26-10.01.47:495][108]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_PickUp_Rifle.BP_PickUp_Rifle_C
+[2025.07.26-10.01.47:497][108]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_PickUp_Rifle.BP_PickUp_Rifle as actor: BP_PickUp_Rifle_C /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.BP_PickUp_Rifle_C_1
+[2025.07.26-10.01.47:498][108]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_PickUp_Rifle.BP_PickUp_Rifle as actor: BP_PickUp_Rifle_C /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.BP_PickUp_Rifle_C_1
+[2025.07.26-10.02.45:436][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.07.26-10.02.45:451][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.26-10.02.45:518][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.07.26-10.02.45:521][294]LogWorldPartition: Can't find class descriptor '/Script/firstperson415.PerlinProcTerrain' for saving '/Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1'
+[2025.07.26-10.02.45:522][294]LogSavePackage: Moving output files for package: /Game/Maps/ProcTerrainMAP
+[2025.07.26-10.02.45:523][294]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Saved/ProcTerrainMAP53F2D5014BCA84C20EE1A0BFF0BF9C5A.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Content/Maps/ProcTerrainMAP.umap'
+[2025.07.26-10.02.45:531][294]LogFileHelpers: Saving map 'ProcTerrainMAP' took 0.051
+[2025.07.26-10.02.45:540][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.387 ms (total: 50.2 sec)
+[2025.07.26-10.02.45:588][294]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.26-10.02.45:588][294]LogContentValidation: Enabled validators:
+[2025.07.26-10.02.45:588][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.26-10.02.45:588][294]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.26-10.02.45:588][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.26-10.02.45:588][294]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.26-10.02.45:588][294]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.26-10.02.45:588][294]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.26-10.02.45:588][294]AssetCheck: /Game/Maps/ProcTerrainMAP Validating asset
+[2025.07.26-10.02.46:587][405]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.07.26-10.03.01:546][879]LogLiveCoding: Display:    Creating library C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_15.lib and object C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_15.exp
+[2025.07.26-10.03.01:963][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.07.26-10.03.02:590][888]Display: Reload/Re-instancing Complete: 1 package changed, 9 classes unchanged, 8 functions remapped
+[2025.07.26-10.03.02:590][888]LogLiveCoding: Display: Live coding succeeded
+[2025.07.26-10.03.07:000][312]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.26-10.03.07:007][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.26-10.03.07:033][312]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-10.03.07:035][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001014s)
+[2025.07.26-10.03.07:035][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ProcTerrainMAP.ProcTerrainMAP to /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP (0.001051s)
+[2025.07.26-10.03.07:110][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.07.26-10.03.07:117][312]LogChaosDD: Creating Chaos Debug Draw Scene for world ProcTerrainMAP
+[2025.07.26-10.03.07:119][312]LogPlayLevel: PIE: World Init took: (0.001468s)
+[2025.07.26-10.03.07:119][312]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.07.26-10.03.07:119][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.26-10.03.07:119][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.26-10.03.07:119][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.26-10.03.07:119][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.26-10.03.07:119][312]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.26-10.03.07:119][312]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.26-10.03.07:119][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.26-10.03.07:119][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.26-10.03.07:119][312]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.26-10.03.07:119][312]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.26-10.03.07:119][312]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.26-10.03.07:122][312]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.26-10.03.07:153][312]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.07.26-10.03.07:153][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.26-10.03.07:153][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.26-10.03.07:153][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.26-10.03.07:153][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.07.26-10.03.07:153][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.07.26-10.03.07:156][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.07.26-10.03.07:156][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.07.26-10.03.07:156][312]LogInit: FAudioDevice initialized with ID 6.
+[2025.07.26-10.03.07:156][312]LogAudio: Display: Audio Device (ID: 6) registered with world 'ProcTerrainMAP'.
+[2025.07.26-10.03.07:156][312]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.07.26-10.03.07:159][312]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.07.26-10.03.07:160][312]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP up for play (max tick rate 0) at 2025.07.26-05.03.07
+[2025.07.26-10.03.07:160][312]LogWorld: Bringing up level for play took: 0.000702
+[2025.07.26-10.03.07:163][312]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.07.26-10.03.07:189][312]PIE: Server logged in
+[2025.07.26-10.03.07:190][312]PIE: Play in editor total start time 0.183 seconds.
+[2025.07.26-10.03.08:903][508]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=10.42 Y=13.52 Z=0.00 Location: X=169.88 Y=344.88 Z=12.49 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:10.125 Actor:PerlinProcTerrain_1 Component:Procedural Mesh BoneName:None (0 other events since notify)
+[2025.07.26-10.03.14:284][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-10.03.14:284][149]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-10.03.14:284][149]LogWorld: UWorld::CleanupWorld for ProcTerrainMAP, bSessionEnded=true, bCleanupResources=true
+[2025.07.26-10.03.14:284][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-10.03.14:289][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.26-10.03.14:294][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-10.03.14:317][149]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.26-10.03.14:325][149]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.07.26-10.03.14:325][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.07.26-10.03.14:328][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.07.26-10.03.14:333][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-10.03.14:348][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.07.26-10.03.14:398][150]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.07.26-10.03.42:028][339]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.26-10.03.42:034][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.26-10.03.42:064][339]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-10.03.42:065][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001107s)
+[2025.07.26-10.03.42:065][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ProcTerrainMAP.ProcTerrainMAP to /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP (0.001148s)
+[2025.07.26-10.03.42:084][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.07.26-10.03.42:092][339]LogChaosDD: Creating Chaos Debug Draw Scene for world ProcTerrainMAP
+[2025.07.26-10.03.42:094][339]LogPlayLevel: PIE: World Init took: (0.001502s)
+[2025.07.26-10.03.42:095][339]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.07.26-10.03.42:095][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.26-10.03.42:095][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.26-10.03.42:095][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.26-10.03.42:095][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.26-10.03.42:095][339]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.26-10.03.42:095][339]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.26-10.03.42:095][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.26-10.03.42:095][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.26-10.03.42:095][339]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.26-10.03.42:095][339]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.26-10.03.42:095][339]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.26-10.03.42:097][339]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.26-10.03.42:127][339]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.07.26-10.03.42:128][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.26-10.03.42:128][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.26-10.03.42:128][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.26-10.03.42:129][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.07.26-10.03.42:129][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.07.26-10.03.42:130][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.07.26-10.03.42:130][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.07.26-10.03.42:130][339]LogInit: FAudioDevice initialized with ID 7.
+[2025.07.26-10.03.42:130][339]LogAudio: Display: Audio Device (ID: 7) registered with world 'ProcTerrainMAP'.
+[2025.07.26-10.03.42:130][339]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.07.26-10.03.42:134][339]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.07.26-10.03.42:134][339]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP up for play (max tick rate 0) at 2025.07.26-05.03.42
+[2025.07.26-10.03.42:134][339]LogWorld: Bringing up level for play took: 0.000625
+[2025.07.26-10.03.42:136][339]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.07.26-10.03.42:161][339]PIE: Server logged in
+[2025.07.26-10.03.42:162][339]PIE: Play in editor total start time 0.127 seconds.
+[2025.07.26-10.03.44:024][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-10.03.44:024][550]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-10.03.44:024][550]LogWorld: UWorld::CleanupWorld for ProcTerrainMAP, bSessionEnded=true, bCleanupResources=true
+[2025.07.26-10.03.44:024][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-10.03.44:027][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.26-10.03.44:033][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-10.03.44:050][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-10.03.44:050][550]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.07.26-10.03.44:050][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.07.26-10.03.44:053][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.07.26-10.03.44:061][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.07.26-10.03.44:105][551]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.07.26-10.03.54:292][757]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.26-10.03.54:298][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.26-10.03.54:298][757]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-10.03.54:299][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000948s)
+[2025.07.26-10.03.54:299][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ProcTerrainMAP.ProcTerrainMAP to /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP (0.000977s)
+[2025.07.26-10.03.54:320][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.07.26-10.03.54:321][757]LogChaosDD: Creating Chaos Debug Draw Scene for world ProcTerrainMAP
+[2025.07.26-10.03.54:322][757]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2025.07.26-10.03.54:323][757]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.07.26-10.03.54:323][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.26-10.03.54:323][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.26-10.03.54:323][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.26-10.03.54:323][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.26-10.03.54:324][757]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.26-10.03.54:324][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.26-10.03.54:324][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.26-10.03.54:324][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.26-10.03.54:324][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.26-10.03.54:324][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.26-10.03.54:324][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.26-10.03.54:326][757]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.26-10.03.54:356][757]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.07.26-10.03.54:357][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.26-10.03.54:357][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.26-10.03.54:357][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.26-10.03.54:357][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.07.26-10.03.54:357][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.07.26-10.03.54:359][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.07.26-10.03.54:359][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.07.26-10.03.54:359][757]LogInit: FAudioDevice initialized with ID 8.
+[2025.07.26-10.03.54:359][757]LogAudio: Display: Audio Device (ID: 8) registered with world 'ProcTerrainMAP'.
+[2025.07.26-10.03.54:359][757]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.07.26-10.03.54:362][757]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.07.26-10.03.54:363][757]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP up for play (max tick rate 0) at 2025.07.26-05.03.54
+[2025.07.26-10.03.54:363][757]LogWorld: Bringing up level for play took: 0.000641
+[2025.07.26-10.03.54:365][757]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.07.26-10.03.54:389][757]PIE: Server logged in
+[2025.07.26-10.03.54:390][757]PIE: Play in editor total start time 0.092 seconds.
+[2025.07.26-10.04.16:543][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-10.04.16:543][ 76]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-10.04.16:543][ 76]LogWorld: UWorld::CleanupWorld for ProcTerrainMAP, bSessionEnded=true, bCleanupResources=true
+[2025.07.26-10.04.16:543][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-10.04.16:546][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.26-10.04.16:553][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-10.04.16:573][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-10.04.16:573][ 76]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.07.26-10.04.16:573][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.07.26-10.04.16:575][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.07.26-10.04.16:582][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.07.26-10.04.16:628][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.07.26-10.05.01:571][305]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-10.05.11:426][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.07.26-10.05.11:430][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.26-10.05.11:517][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.07.26-10.05.11:520][356]LogWorldPartition: Can't find class descriptor '/Script/firstperson415.PerlinProcTerrain' for saving '/Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1'
+[2025.07.26-10.05.11:521][356]LogSavePackage: Moving output files for package: /Game/Maps/ProcTerrainMAP
+[2025.07.26-10.05.11:522][356]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Saved/ProcTerrainMAP8112599743F49C231FB4638B2F79D0B2.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Content/Maps/ProcTerrainMAP.umap'
+[2025.07.26-10.05.11:530][356]LogFileHelpers: Saving map 'ProcTerrainMAP' took 0.053
+[2025.07.26-10.05.11:539][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.348 ms (total: 50.3 sec)
+[2025.07.26-10.05.11:585][356]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.26-10.05.11:585][356]LogContentValidation: Enabled validators:
+[2025.07.26-10.05.11:585][356]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.26-10.05.11:585][356]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.26-10.05.11:585][356]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.26-10.05.11:585][356]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.26-10.05.11:585][356]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.26-10.05.11:585][356]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.26-10.05.11:585][356]AssetCheck: /Game/Maps/ProcTerrainMAP Validating asset
+[2025.07.26-10.05.16:127][877]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.26-10.05.16:135][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.26-10.05.16:163][877]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-10.05.16:164][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001042s)
+[2025.07.26-10.05.16:164][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ProcTerrainMAP.ProcTerrainMAP to /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP (0.001080s)
+[2025.07.26-10.05.16:184][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.07.26-10.05.16:186][877]LogChaosDD: Creating Chaos Debug Draw Scene for world ProcTerrainMAP
+[2025.07.26-10.05.16:187][877]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2025.07.26-10.05.16:188][877]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.07.26-10.05.16:188][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.26-10.05.16:188][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.26-10.05.16:188][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.26-10.05.16:188][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.26-10.05.16:188][877]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.26-10.05.16:188][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.26-10.05.16:188][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.26-10.05.16:188][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.26-10.05.16:188][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.26-10.05.16:188][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.26-10.05.16:188][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.26-10.05.16:190][877]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.26-10.05.16:220][877]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.07.26-10.05.16:220][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.26-10.05.16:220][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.26-10.05.16:220][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.26-10.05.16:221][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.07.26-10.05.16:221][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.07.26-10.05.16:222][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.07.26-10.05.16:222][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.07.26-10.05.16:222][877]LogInit: FAudioDevice initialized with ID 9.
+[2025.07.26-10.05.16:222][877]LogAudio: Display: Audio Device (ID: 9) registered with world 'ProcTerrainMAP'.
+[2025.07.26-10.05.16:223][877]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.07.26-10.05.16:226][877]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.07.26-10.05.16:227][877]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP up for play (max tick rate 0) at 2025.07.26-05.05.16
+[2025.07.26-10.05.16:227][877]LogWorld: Bringing up level for play took: 0.000602
+[2025.07.26-10.05.16:229][877]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.07.26-10.05.16:252][877]PIE: Server logged in
+[2025.07.26-10.05.16:253][877]PIE: Play in editor total start time 0.119 seconds.
+[2025.07.26-10.05.30:903][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-10.05.30:903][386]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-10.05.30:903][386]LogWorld: UWorld::CleanupWorld for ProcTerrainMAP, bSessionEnded=true, bCleanupResources=true
+[2025.07.26-10.05.30:903][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-10.05.30:907][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.26-10.05.30:912][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-10.05.30:931][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-10.05.30:931][386]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.07.26-10.05.30:931][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.07.26-10.05.30:933][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.07.26-10.05.30:941][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.07.26-10.05.30:984][387]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.07.26-10.06.11:022][533]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring ProceduralMeshComponent /Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1.Procedural Mesh.
+[2025.07.26-10.06.12:504][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.07.26-10.06.12:509][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.26-10.06.12:578][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.07.26-10.06.12:581][686]LogWorldPartition: Can't find class descriptor '/Script/firstperson415.PerlinProcTerrain' for saving '/Game/Maps/ProcTerrainMAP.ProcTerrainMAP:PersistentLevel.PerlinProcTerrain_1'
+[2025.07.26-10.06.12:582][686]LogSavePackage: Moving output files for package: /Game/Maps/ProcTerrainMAP
+[2025.07.26-10.06.12:583][686]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Saved/ProcTerrainMAPEA434DB74D8EDFECB8087BB28FFFAA95.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Content/Maps/ProcTerrainMAP.umap'
+[2025.07.26-10.06.12:593][686]LogFileHelpers: Saving map 'ProcTerrainMAP' took 0.053
+[2025.07.26-10.06.12:601][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.370 ms (total: 50.4 sec)
+[2025.07.26-10.06.12:646][686]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.26-10.06.12:646][686]LogContentValidation: Enabled validators:
+[2025.07.26-10.06.12:646][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.26-10.06.12:646][686]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.26-10.06.12:646][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.26-10.06.12:646][686]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.26-10.06.12:646][686]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.26-10.06.12:646][686]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.26-10.06.12:646][686]AssetCheck: /Game/Maps/ProcTerrainMAP Validating asset
+[2025.07.26-10.06.13:288][759]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.26-10.06.13:294][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.26-10.06.13:332][759]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-10.06.13:333][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001075s)
+[2025.07.26-10.06.13:333][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ProcTerrainMAP.ProcTerrainMAP to /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP (0.001112s)
+[2025.07.26-10.06.13:349][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.07.26-10.06.13:352][759]LogChaosDD: Creating Chaos Debug Draw Scene for world ProcTerrainMAP
+[2025.07.26-10.06.13:353][759]LogPlayLevel: PIE: World Init took: (0.001391s)
+[2025.07.26-10.06.13:354][759]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.07.26-10.06.13:354][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.26-10.06.13:354][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.26-10.06.13:354][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.26-10.06.13:354][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.26-10.06.13:354][759]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.26-10.06.13:354][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.26-10.06.13:354][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.26-10.06.13:354][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.26-10.06.13:354][759]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.26-10.06.13:354][759]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.26-10.06.13:354][759]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.26-10.06.13:356][759]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.26-10.06.13:384][759]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.07.26-10.06.13:385][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.26-10.06.13:385][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.26-10.06.13:385][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.26-10.06.13:385][759]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.07.26-10.06.13:385][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.07.26-10.06.13:387][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.07.26-10.06.13:387][759]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.07.26-10.06.13:387][759]LogInit: FAudioDevice initialized with ID 10.
+[2025.07.26-10.06.13:387][759]LogAudio: Display: Audio Device (ID: 10) registered with world 'ProcTerrainMAP'.
+[2025.07.26-10.06.13:387][759]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.07.26-10.06.13:390][759]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.07.26-10.06.13:391][759]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP up for play (max tick rate 0) at 2025.07.26-05.06.13
+[2025.07.26-10.06.13:391][759]LogWorld: Bringing up level for play took: 0.000641
+[2025.07.26-10.06.13:393][759]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.07.26-10.06.13:417][759]PIE: Server logged in
+[2025.07.26-10.06.13:418][759]PIE: Play in editor total start time 0.124 seconds.
+[2025.07.26-10.06.23:412][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-10.06.23:412][943]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-10.06.23:412][943]LogWorld: UWorld::CleanupWorld for ProcTerrainMAP, bSessionEnded=true, bCleanupResources=true
+[2025.07.26-10.06.23:412][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-10.06.23:415][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.26-10.06.23:421][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-10.06.23:439][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-10.06.23:439][943]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.07.26-10.06.23:439][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.07.26-10.06.23:442][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.07.26-10.06.23:449][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.07.26-10.06.23:491][944]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.07.26-10.06.29:135][603]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.26-10.06.29:141][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.26-10.06.29:161][603]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-10.06.29:162][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001006s)
+[2025.07.26-10.06.29:162][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ProcTerrainMAP.ProcTerrainMAP to /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP (0.001045s)
+[2025.07.26-10.06.29:182][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.07.26-10.06.29:184][603]LogChaosDD: Creating Chaos Debug Draw Scene for world ProcTerrainMAP
+[2025.07.26-10.06.29:186][603]LogPlayLevel: PIE: World Init took: (0.001340s)
+[2025.07.26-10.06.29:187][603]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.07.26-10.06.29:187][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.26-10.06.29:187][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.26-10.06.29:187][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.26-10.06.29:187][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.26-10.06.29:187][603]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.26-10.06.29:187][603]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.26-10.06.29:187][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.26-10.06.29:187][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.26-10.06.29:187][603]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.26-10.06.29:187][603]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.26-10.06.29:187][603]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.26-10.06.29:189][603]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.26-10.06.29:220][603]LogAudioMixer: Display: Using Audio Hardware Device Speakers (6- USB Audio Device)
+[2025.07.26-10.06.29:220][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.26-10.06.29:220][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.26-10.06.29:220][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.26-10.06.29:220][603]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.07.26-10.06.29:220][603]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.07.26-10.06.29:222][603]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.07.26-10.06.29:222][603]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.07.26-10.06.29:222][603]LogInit: FAudioDevice initialized with ID 11.
+[2025.07.26-10.06.29:222][603]LogAudio: Display: Audio Device (ID: 11) registered with world 'ProcTerrainMAP'.
+[2025.07.26-10.06.29:222][603]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.07.26-10.06.29:225][603]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.07.26-10.06.29:226][603]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ProcTerrainMAP.ProcTerrainMAP up for play (max tick rate 0) at 2025.07.26-05.06.29
+[2025.07.26-10.06.29:226][603]LogWorld: Bringing up level for play took: 0.000614
+[2025.07.26-10.06.29:228][603]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.07.26-10.06.29:251][603]PIE: Server logged in
+[2025.07.26-10.06.29:253][603]PIE: Play in editor total start time 0.112 seconds.
+[2025.07.26-10.06.53:012][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-10.06.53:012][278]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ProcTerrainMAP
+[2025.07.26-10.06.53:012][278]LogWorld: UWorld::CleanupWorld for ProcTerrainMAP, bSessionEnded=true, bCleanupResources=true
+[2025.07.26-10.06.53:012][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-10.06.53:015][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.26-10.06.53:020][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.26-10.06.53:040][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.26-10.06.53:040][278]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.07.26-10.06.53:040][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.07.26-10.06.53:042][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.07.26-10.06.53:050][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.07.26-10.06.53:094][279]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.07.26-10.08.10:791][310]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14005.336914
+[2025.07.26-10.08.11:791][313]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.26-10.08.11:791][313]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14006.002930, Update Interval: 320.805084
+[2025.07.26-10.08.33:455][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.07.26-10.08.36:095][913]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.07.26-10.08.48:197][198]LogLiveCoding: Display:    Creating library C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_16.lib and object C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_16.exp
+[2025.07.26-10.08.48:553][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.07.26-10.08.49:101][205]Display: Reload/Re-instancing Complete: 1 package changed, 9 classes unchanged, 8 functions remapped
+[2025.07.26-10.08.49:101][205]LogLiveCoding: Display: Live coding succeeded
+[2025.07.26-10.08.53:080][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
