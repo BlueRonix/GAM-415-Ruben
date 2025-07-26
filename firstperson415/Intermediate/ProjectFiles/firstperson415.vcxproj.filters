@@ -78,5 +78,11 @@
     <ClCompile Include="..\..\Source\firstperson415\firstperson415WeaponComponent.h">
       <Filter>Source\firstperson415</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\firstperson415\ProcPlane.cpp">
+      <Filter>Source\firstperson415</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\firstperson415\ProcPlane.h">
+      <Filter>Source\firstperson415</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
