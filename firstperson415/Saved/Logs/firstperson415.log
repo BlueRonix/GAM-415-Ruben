@@ -1984,3 +1984,33 @@ Sampler Limit: 32
 [2025.08.03-20.07.48:518][652]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 983.843323
 [2025.08.03-20.07.49:519][655]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.03-20.07.49:519][655]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 984.510376, Update Interval: 330.328674
+[2025.08.03-20.08.59:062][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.08.03-20.08.59:069][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.03-20.08.59:134][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.08.03-20.08.59:156][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.08.03-20.08.59:176][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.08.03-20.08.59:179][934]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X
+[2025.08.03-20.08.59:180][934]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Saved/1JZHHCOBVQ2F5XRUWSES1X700FD0C544E41E694EB0CEABEA808E17.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.uasset'
+[2025.08.03-20.08.59:183][934]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/70/8AOR5ZWP5MW07YGRH9NXEF
+[2025.08.03-20.08.59:183][934]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Saved/8AOR5ZWP5MW07YGRH9NXEF215BFBC34296858C17219FAAEF78B437.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/70/8AOR5ZWP5MW07YGRH9NXEF.uasset'
+[2025.08.03-20.08.59:185][934]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SceneCapture/SceneCapture] ([2] browsable assets)...
+[2025.08.03-20.08.59:194][934]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SceneCapture/SceneCapture.SceneCapture]
+[2025.08.03-20.08.59:194][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/SceneCapture/SceneCapture]
+[2025.08.03-20.08.59:197][934]LogSavePackage: Moving output files for package: /Game/SceneCapture/SceneCapture
+[2025.08.03-20.08.59:198][934]LogSavePackage: Moving '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Saved/SceneCaptureBBFA8FC14B777F4D73C1C8960E1CE416.tmp' to '../../../../../../Users/blue1/Documents/Unreal Projects/firstperson415/GAM-415-Ruben/firstperson415/Content/SceneCapture/SceneCapture.uasset'
+[2025.08.03-20.08.59:211][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.593 ms (total: 447.360 ms)
+[2025.08.03-20.08.59:258][934]LogContentValidation: Display: Starting to validate 3 assets
+[2025.08.03-20.08.59:258][934]LogContentValidation: Enabled validators:
+[2025.08.03-20.08.59:258][934]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.03-20.08.59:258][934]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.03-20.08.59:258][934]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.03-20.08.59:258][934]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.03-20.08.59:258][934]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.03-20.08.59:258][934]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.03-20.08.59:258][934]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.08.03-20.08.59:258][934]AssetCheck: /Game/SceneCapture/SceneCapture Validating asset
+[2025.08.03-20.09.17:859][448]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.03-20.09.30:758][547]LogLiveCoding: Display:    Creating library C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_1.lib and object C:\Users\blue1\Documents\Unreal Projects\firstperson415\GAM-415-Ruben\firstperson415\Binaries\Win64\UnrealEditor-firstperson415.patch_1.exp
+[2025.08.03-20.09.31:121][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.08.03-20.09.31:748][554]Display: Reload/Re-instancing Complete: 1 package changed, 9 classes unchanged, 8 functions remapped
+[2025.08.03-20.09.31:748][554]LogLiveCoding: Display: Live coding succeeded
