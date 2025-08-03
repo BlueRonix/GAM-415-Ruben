@@ -84,6 +84,12 @@
     <ClCompile Include="..\..\Source\firstperson415\PerlinProcTerrain.h">
       <Filter>Source\firstperson415</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\firstperson415\Portal.cpp">
+      <Filter>Source\firstperson415</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\firstperson415\Portal.h">
+      <Filter>Source\firstperson415</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\firstperson415\ProcMeshFromStatic.cpp">
       <Filter>Source\firstperson415</Filter>
     </ClCompile>
